@@ -55,4 +55,3 @@ else:
     print("Customer will not buy the product")
 
 
-## Predicting the Sales
